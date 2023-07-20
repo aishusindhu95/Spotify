@@ -7,6 +7,12 @@ public class GitFirstSpotify {
 	}
 	
 	private void name() {
+
 		System.out.println("This is karthi Branch ");
 	}
+
+	private void name1() {
+		System.out.println("This is Aishwarya Branch ");
+	}
+	
 }
